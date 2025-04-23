@@ -6,14 +6,13 @@ This is a web app developed as  project  using HTML, CSS, and Vanilla JavaScript
 - The app displays the current weather conditions, including temperature and weather description.
 - The app provides a 5-day forecast for the searched city, including hourly forecasts.
 - The app can detect the user's current position if they allow it.
-- The app fetches weather data using both SheCodes Weather API and OpenWeatherMap API.
+- The app fetches weather data using  OpenWeatherMap API.
 
 # Technologies & Tools Used
 - HTML
 - CSS
 - Vanilla JavaScript
 - VS Code
-- SheCodes Weather API
 - OpenWeatherMap API
 
 
